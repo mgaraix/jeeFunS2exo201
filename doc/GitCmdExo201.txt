@@ -1,0 +1,17 @@
+//    cmd git     S2BDCDaoS exo201 Authentification
+// contenu du projet final  screen7 dans repertoire local
+// publier sur le depot distant de GitHub 
+
+$ git init
+$ git status
+$ git add .
+$ git commit -m "S2-JDBCDAO exo201  CR commentaires "
+$ git status
+$ git log
+$ git branch -M master
+$ git remote add servergit https://github.com/mgaraix/jeeFunS2exo201.git
+$ git push -u servergit master
+
+
+
+
